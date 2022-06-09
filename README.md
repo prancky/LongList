@@ -18,6 +18,8 @@
   ```
   $ cd ios
   $ pod install
+  $ cd ..
+  $ yarn ios
   ```
 
 - Open `LongList.xcworkspace` file on ios folder `(project/ios/LongList.xcworkspace)`
